@@ -78,7 +78,8 @@ _INSTRUCTIONS: The following deliverables should be officially posted to your My
 
 ### Solution demo video
 
-[![Watch the video]![(https://github.com/user-attachments/assets/15b95d82-3a99-488a-86f7-2a32bc3a79b0)](https://youtu.be/tmsDPcwRvqw)
+[![Watch the video]![![sheaNET](https://github.com/user-attachments/assets/9d0e55ef-5c11-493e-8441-366803548f4b)
+](https://youtu.be/tmsDPcwRvqw)
 
 ### Project development roadmap
 
@@ -118,7 +119,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ### Authors
 
-- **Aaron Masuba** - _Initial work_ - [PurpleBooth](https://github.com/aaronmasuba-dev)
+- **Aaron Masuba** - _Initial work_ - [AaronMasuba-Dev](https://github.com/aaronmasuba-dev)
 
 ### License
 
