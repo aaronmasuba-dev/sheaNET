@@ -60,12 +60,9 @@ The Watsonx Prompt Lab pulls from avariety of data sources, including local know
 - [Language Translator](https://cloud.ibm.com/catalog/services/language-translator) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
 
 ### Solution architecture
+sheaNET diagram and step-by-step description of the flow of our solution:
+![sheaNET Architecture Diagram](https://github.com/user-attachments/assets/bac0e23f-dc15-4ce3-a39f-b86ad30f3362)
 
-REPLACE THIS EXAMPLE WITH YOUR OWN, OR REMOVE THIS EXAMPLE
-
-Diagram and step-by-step description of the flow of our solution:
-
-![Video transcription/translaftion app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
 
 1. The user navigates to the site and uploads a video file.
 2. Watson Speech to Text processes the audio and extracts the text.
