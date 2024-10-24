@@ -24,7 +24,7 @@ sheaNET leverages Watsonx GenAI to promote sustainable alternatives to deforesta
   - [Acknowledgments](#acknowledgments)
 
 ## Project summary
-**sheaNET** leverages Watsonx GenAI and Assistant to promote sustainable alternatives to deforestation.
+**sheaNET** leverages Watsonx PromptLab and Assistant to promote sustainable alternatives to deforestation.
 
 ### The issue we are hoping to solve
 Communities in Northern Uganda rely on shea trees for charcoal production, leading to deforestation and environmental degradation. This issue worsens climate change and post conflict poverty, leaving women and youth with limited sustainable income sources.
@@ -34,14 +34,15 @@ Communities in Northern Uganda rely on shea trees for charcoal production, leadi
 
 ### Our idea
 **sheaNET** is an innovative platform designed to empower rural communities, particularly women and youth, in Northern Uganda by leveraging teh capabilities of WatsonX GenAI and Watsonx Assistant to promote sustainable alternatives to deforestation. The primary focus of sheaNET is to provide these communities with knowledge and tools to shift from unsustainable practices like charcoal production, which leads to deforestation, to regenerative  and climate-friendly uses of shea trees, such as producing marketable shea-based products. These products, including shea butter, lotions, soaps, and cosmetics, offer a viable alternative for income generation, enhancing environmental sustainability and economic resilience.
-#### Problem Conext:
-The Northern region of Uganda is characterized by high levels of poverty, particularly among post-conflict populations, many of whom rely on  unsustainable practices like deforestation to survive. The mass cutting of trees, particularly shea tree, for charcoal production not only depletes natural resources but also exacerbates the regions's vulnerability to climate change. Deforestation has led to prolonged droughts, soil erosion, and reduced agricultural productivity, further entrenching poverty and hunger in the region.
+The problem context is that, the Northern region of Uganda is characterized by high levels of poverty, particularly among post-conflict populations, many of whom rely on  unsustainable practices like deforestation to survive. The mass cutting of trees, particularly shea tree, for charcoal production not only depletes natural resources but also exacerbates the regions's vulnerability to climate change. Deforestation has led to prolonged droughts, soil erosion, and reduced agricultural productivity, further entrenching poverty and hunger in the region.
 At the same time, the shea tree offers a unique economic opportunity. Its seeds produce shea butter, which is in high demand in the global beauty and skincare industries. however, due to lack of awareness, resources, and access to markets, most people in these communities continue to exploit shea trees for charcoal instead of harnessing their potential for higher-value, sustainable products.
-
-More detail is available in our [description document](./docs/DESCRIPTION.md).
+sheaNET tackles these issues by using WatsonX Prompt Lab to generate actionable insights and new knowledge on sustainable practices for shea tree cultivation and product development. The platform integrates IBM's cutting-edge AI technology to provide communities with the necessary information to repurpose shea trees from charcoal production into higher-value markets. Through Watsonx Assistant, users can interact with the system in their native languages, making the solution accessible and culturally relevant.
+The Watsonx Prompt Lab pulls from avariety of data sources, including local knowledge from WORUDET (Women and Rural Development Networks), market data, and environmental studies, to offer tailored solutions to each user. The Ai provides recommendations on sustainable harvesting techniques, agroforestry practices, and business models for producing shea-based products. Additionally, it connects users with training modules on product formulation, packaging, and marketing, enabling them to enter local and global markets.
 
 ## Technology implementation
-
+1. User Interaction: Women and youth access sheaNET through mobile phones or computers, interacting with a Watson Assistant via the WORUDET website (https://worudet.net/sheanet/). They ask questions about alternative livelihoods, sustainable practices, or product development, and receive real-time guidance from the platform.
+2. Watsonx AI Prompt Lab Output through Assistant: Using Watsonx Assistant, the platform generates relevant and personalized information. Forexample, it can suggest best practices for shea-based products, and provide insight into market trends.
+3. Access to Markets: sheaNET shall help connect users with market opportunities, offering insights on how to package, brand, and sell shea-based products both locally and internationally. The platform provides recommendation on entering value chains that offer higher economic returns than charcoal production.
 
 
 ### IBM watsonx product(s) used
