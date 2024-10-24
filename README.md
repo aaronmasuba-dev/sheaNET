@@ -92,8 +92,7 @@ The project currently does the following things.
 In the future we plan to...
 
 See below for our proposed schedule on next steps after Call for Code 2024 submission.
-
-![Roadmap](./images/roadmap.jpg)
+![sheaNET Project Roadmap](https://github.com/user-attachments/assets/73e1f63a-109b-4461-beb8-834338873979)
 
 ## Additional details
 By encouraging regenerative uses of shea trees, sheaNET contributes to reducing of ecosystems in Northern Uganda. The platform promotes agroforestry practices, where shea trees are preserved and farmed alognside other crops, improving soil quality and reducing climate risks.
