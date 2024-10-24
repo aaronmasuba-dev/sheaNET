@@ -44,34 +44,18 @@ The Watsonx Prompt Lab pulls from avariety of data sources, including local know
 2. Watsonx AI Prompt Lab Output through Assistant: Using Watsonx Assistant, the platform generates relevant and personalized information. Forexample, it can suggest best practices for shea-based products, and provide insight into market trends.
 3. Access to Markets: sheaNET shall help connect users with market opportunities, offering insights on how to package, brand, and sell shea-based products both locally and internationally. The platform provides recommendation on entering value chains that offer higher economic returns than charcoal production.
 
-
 ### IBM watsonx product(s) used
-
-_INSTRUCTIONS: Included here is a list of IBM watsonx products. Remove any products you did not use. Leave only those included in your solution code. In your official submission on the Call for Code Global Challenge web site, you are required to provide details on where and how you used each IBM watsonx product so judges can review your implementation. Remove these instructions._
-
 **Featured watsonx products**
 
-- [watsonx.ai](https://www.ibm.com/products/watsonx-ai) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-
-- [watsonx.governance](https://www.ibm.com/products/watsonx-governance) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-
-- [watsonx Assistant](https://cloud.ibm.com/catalog/services/watsonx-assistant) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
+- [watsonx.ai](https://www.ibm.com/products/watsonx-ai) - sheaNET uses Watsonx Prompt Lab by creating a sandbox where guadrails are placed to control output and greedy sampling option selected to improve creativity. The values of temperature, Top P and Top K are fine tuned to ensure an optimal output and few token numbers are set to increase precision and shorter interpretable and graspable sentences.
+- [watsonx Assistant](https://cloud.ibm.com/catalog/services/watsonx-assistant) - Our chatbot is created using Watsonx Assistant intergating the model from Prompt Lab while fine tuning a converstaional response. We are also modelling it to integrate our pre-loaded files from Women and Rural Development Networks about existing opportunities for women and youths subscribed to WORUDET through sheaNET.
 
 ### Other IBM technology used
-
-INSTRUCTIONS: List any other IBM technology or IBM AI services used in your solution and describe how each component was used. If you can provide details on where these were used in your code, that would help the judges review your submission.
-
 **Additional IBM AI services (Remove any that you did not use)**
-
-- [Watson Machine Learning](https://cloud.ibm.com/catalog/services/watson-machine-learning) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
 
 - [Watson Studio](https://cloud.ibm.com/catalog/services/watson-studio) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
 
 - [Natural Language Understanding](https://cloud.ibm.com/catalog/services/natural-language-understanding) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-
-- [Speech to Text](https://cloud.ibm.com/catalog/services/speech-to-text) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-
-- [Text to Speech](https://cloud.ibm.com/catalog/services/text-to-speech) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
 
 - [Language Translator](https://cloud.ibm.com/catalog/services/language-translator) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
 
@@ -94,7 +78,7 @@ _INSTRUCTIONS: The following deliverables should be officially posted to your My
 
 ### Solution demo video
 
-[![Watch the video](https://raw.githubusercontent.com/Liquid-Prep/Liquid-Prep/main/images/readme/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
+[![Watch the video]![(https://github.com/user-attachments/assets/15b95d82-3a99-488a-86f7-2a32bc3a79b0)](https://youtu.be/tmsDPcwRvqw)
 
 ### Project development roadmap
 
@@ -111,22 +95,16 @@ See below for our proposed schedule on next steps after Call for Code 2024 submi
 ![Roadmap](./images/roadmap.jpg)
 
 ## Additional details
-
-_INSTRUCTIONS: The following deliverables are suggested, but **optional**. Additional details like this can help the judges better review your solution. Remove any sections you are not using._
+By encouraging regenerative uses of shea trees, sheaNET contributes to reducing of ecosystems in Northern Uganda. The platform promotes agroforestry practices, where shea trees are preserved and farmed alognside other crops, improving soil quality and reducing climate risks.
+There to say, sheaNET aims to uplift post-conflict communities by providing a sustainable alternative to environmentally destructive practices. With the help of Watsonx Generative AI platforms and Watson Assistant, it equips these communities with knowledge and skills needed to create marketable products from shea trees, opening up new economic opportunities and contributing to the fight against climate change.
 
 ### How to run the project
-
-INSTRUCTIONS: In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
+The project can be run by accessing sheaNET through the WORUDET website here. https://worudet.net/sheanet/
 
 ### Live demo
 
-You can find a running system to test at...
+You can test our solution by running it on your computer through this link. https://worudet.net/sheanet/
 
-See our [description document](./docs/DESCRIPTION.md) for log in credentials.
-
----
-
-_INSTRUCTIONS: You can remove the below section from your specific project README._
 
 ## About this template
 
@@ -140,11 +118,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ### Authors
 
-<a href="https://github.com/Call-for-Code/Project-Sample/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Project-Sample" />
-</a>
-
-- **Billie Thompson** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
+- **Aaron Masuba** - _Initial work_ - [PurpleBooth](https://github.com/aaronmasuba-dev)
 
 ### License
 
